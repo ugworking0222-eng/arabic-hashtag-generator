@@ -1,0 +1,483 @@
+{
+  "category_info": {
+    "id": "education",
+    "name_en": "Education & Learning",
+    "name_ar": "تعليم وتعلم",
+    "slug": "education",
+    "icon": "📚",
+    "color": "#8B5CF6",
+    "description_en": "Everything about education, schools, universities, learning, students, and academic life",
+    "description_ar": "كل ما يتعلق بالتعليم والمدارس والجامعات والتعلم والطلاب والحياة الأكاديمية"
+  },
+  "popularity_score": 94,
+  "universal_hashtags": [
+    "#تعليم",
+    "#education",
+    "#تعلم",
+    "#learning",
+    "#دراسة",
+    "#study",
+    "#علم",
+    "#knowledge",
+    "#معرفة",
+    "#تعليمي",
+    "#educational",
+    "#تربية",
+    "#تربية_وتعليم",
+    "#education_and_training",
+    "#التعليم_أولاً",
+    "#education_first",
+    "#حق_التعليم",
+    "#right_to_education",
+    "#التعليم_للجميع",
+    "#education_for_all"
+  ],
+  "schools": [
+    "#مدرسة",
+    "#school",
+    "#مدارس",
+    "#schools",
+    "#حياة_المدرسة",
+    "#school_life",
+    "#يوم_دراسي",
+    "#school_day",
+    "#المدرسة_الابتدائية",
+    "#elementary_school",
+    "#المدرسة_الإعدادية",
+    "#middle_school",
+    "#المدرسة_الثانوية",
+    "#high_school",
+    "#الثانوية",
+    "#secondary",
+    "#مدرسة_خاصة",
+    "#private_school",
+    "#مدرسة_حكومية",
+    "#public_school",
+    "#مدرسة_دولية",
+    "#international_school"
+  ],
+  "students": [
+    "#طالب",
+    "#student",
+    "#طلاب",
+    "#students",
+    "#طالبة",
+    "#حياة_الطالب",
+    "#student_life",
+    "#طلاب_المدارس",
+    "#school_students",
+    "#طلاب_الجامعات",
+    "#university_students",
+    "#طالب_جامعي",
+    "#college_student",
+    "#دارس",
+    "#learner",
+    "#متعلم"
+  ],
+  "universities": [
+    "#جامعة",
+    "#university",
+    "#جامعات",
+    "#universities",
+    "#كلية",
+    "#college",
+    "#كليات",
+    "#colleges",
+    "#حياة_الجامعة",
+    "#university_life",
+    "#حياة_جامعية",
+    "#campus_life",
+    "#الحرم_الجامعي",
+    "#campus",
+    "#جامعة_حكومية",
+    "#public_university",
+    "#جامعة_خاصة",
+    "#private_university"
+  ],
+  "teachers": [
+    "#معلم",
+    "#teacher",
+    "#معلمة",
+    "#معلمون",
+    "#teachers",
+    "#أستاذ",
+    "#professor",
+    "#مدرس",
+    "#مدرسة",
+    "#مدرسون",
+    "#instructors",
+    "#التدريس",
+    "#teaching",
+    "#مهنة_التدريس",
+    "#teaching_profession",
+    "#يوم_المعلم",
+    "#teachers_day",
+    "#شكراً_معلمي",
+    "#thank_you_teacher"
+  ],
+  "subjects": [
+    "#مواد_دراسية",
+    "#subjects",
+    "#مادة",
+    "#subject",
+    "#رياضيات",
+    "#mathematics",
+    "#math",
+    "#ماث",
+    "#علوم",
+    "#science",
+    "#فيزياء",
+    "#physics",
+    "#كيمياء",
+    "#chemistry",
+    "#أحياء",
+    "#biology",
+    "#لغة_عربية",
+    "#arabic_language",
+    "#لغة_إنجليزية",
+    "#english_language",
+    "#تاريخ",
+    "#history",
+    "#جغرافيا",
+    "#geography",
+    "#دراسات_اجتماعية",
+    "#social_studies"
+  ],
+  "exams": [
+    "#امتحان",
+    "#exam",
+    "#امتحانات",
+    "#exams",
+    "#اختبار",
+    "#test",
+    "#اختبارات",
+    "#tests",
+    "#فترة_الامتحانات",
+    "#exam_period",
+    "#موسم_الامتحانات",
+    "#exam_season",
+    "#الامتحانات_النهائية",
+    "#final_exams",
+    "#نهائيات",
+    "#finals",
+    "#توجيهي",
+    "#tawjihi",
+    "#ثانوية_عامة",
+    "#general_secondary",
+    "#بكالوريا",
+    "#baccalaureate",
+    "#باك",
+    "#bac"
+  ],
+  "study_tips": [
+    "#نصائح_دراسية",
+    "#study_tips",
+    "#طرق_المذاكرة",
+    "#study_methods",
+    "#مذاكرة",
+    "#studying",
+    "#تركيز",
+    "#focus",
+    "#تحضير_للامتحان",
+    "#exam_preparation",
+    "#مراجعة",
+    "#revision",
+    "#تلخيص",
+    "#summarizing",
+    "#ملاحظات",
+    "#notes",
+    "#دفتر_ملاحظات",
+    "#notebook"
+  ],
+  "grades_results": [
+    "#درجات",
+    "#grades",
+    "#علامات",
+    "#marks",
+    "#نتائج",
+    "#results",
+    "#نتيجة",
+    "#result",
+    "#معدل",
+    "#GPA",
+    "#تفوق",
+    "#excellence",
+    "#متفوق",
+    "#excellent_student",
+    "#الأوائل",
+    "#top_students",
+    "#شرف",
+    "#honor",
+    "#قائمة_الشرف",
+    "#honor_roll"
+  ],
+  "graduation": [
+    "#تخرج",
+    "#graduation",
+    "#حفل_تخرج",
+    "#graduation_ceremony",
+    "#خريج",
+    "#graduate",
+    "#خريجون",
+    "#graduates",
+    "#تهانينا_للخريجين",
+    "#congratulations_graduates",
+    "#مبروك_التخرج",
+    "#شهادة",
+    "#degree",
+    "#دبلوم",
+    "#diploma",
+    "#بكالوريوس",
+    "#bachelors",
+    "#ماجستير",
+    "#masters",
+    "#دكتوراه",
+    "#phd"
+  ],
+  "online_learning": [
+    "#التعليم_عن_بعد",
+    "#distance_learning",
+    "#التعليم_الإلكتروني",
+    "#e_learning",
+    "#تعلم_أونلاين",
+    "#online_learning",
+    "#دورات_أونلاين",
+    "#online_courses",
+    "#محاضرة_أونلاين",
+    "#online_lecture",
+    "#فصول_افتراضية",
+    "#virtual_classes",
+    "#زووم",
+    "#zoom",
+    "#تيمز",
+    "#teams",
+    "#منصة_تعليمية",
+    "#learning_platform"
+  ],
+  "educational_technology": [
+    "#تكنولوجيا_التعليم",
+    "#educational_technology",
+    "#edtech",
+    "#تقنيات_التعليم",
+    "#تطبيقات_تعليمية",
+    "#educational_apps",
+    "#برامج_تعليمية",
+    "#educational_software",
+    "#ذكاء_اصطناعي_في_التعليم",
+    "#ai_in_education"
+  ],
+  "homework": [
+    "#واجب_منزلي",
+    "#homework",
+    "#واجبات",
+    "#assignments",
+    "#مشروع",
+    "#project",
+    "#مشاريع",
+    "#projects",
+    "#بحث",
+    "#research",
+    "#أبحاث",
+    "#researches"
+  ],
+  "languages": [
+    "#تعلم_لغات",
+    "#language_learning",
+    "#لغات",
+    "#languages",
+    "#لغة",
+    "#language",
+    "#تعلم_الإنجليزية",
+    "#learn_english",
+    "#تعلم_العربية",
+    "#learn_arabic",
+    "#تعلم_الفرنسية",
+    "#learn_french",
+    "#لغة_ثانية",
+    "#second_language",
+    "#ثنائي_اللغة",
+    "#bilingual"
+  ],
+  "scholarships": [
+    "#منحة",
+    "#scholarship",
+    "#منح_دراسية",
+    "#scholarships",
+    "#منح_جامعية",
+    "#university_scholarships",
+    "#دراسة_مجانية",
+    "#free_education",
+    "#مساعدة_مالية",
+    "#financial_aid",
+    "#ابتعاث",
+    "#study_abroad"
+  ],
+  "study_abroad": [
+    "#الدراسة_في_الخارج",
+    "#study_abroad",
+    "#ابتعاث",
+    "#دراسة_خارجية",
+    "#طالب_مبتعث",
+    "#international_student",
+    "#طلاب_دوليون"
+  ],
+  "training": [
+    "#تدريب",
+    "#training",
+    "#تطوير_المهارات",
+    "#skill_development",
+    "#دورة_تدريبية",
+    "#training_course",
+    "#ورشة_عمل",
+    "#workshop",
+    "#ورش_عمل",
+    "#workshops",
+    "#تأهيل",
+    "#qualification"
+  ],
+  "career": [
+    "#مسار_وظيفي",
+    "#career",
+    "#التوجيه_المهني",
+    "#career_guidance",
+    "#اختيار_التخصص",
+    "#choosing_major",
+    "#تخصص",
+    "#major",
+    "#تخصصات",
+    "#majors"
+  ],
+  "libraries": [
+    "#مكتبة",
+    "#library",
+    "#مكتبات",
+    "#libraries",
+    "#مكتبة_المدرسة",
+    "#school_library",
+    "#مكتبة_الجامعة",
+    "#university_library",
+    "#قراءة",
+    "#reading",
+    "#كتب_دراسية",
+    "#textbooks"
+  ],
+  "school_activities": [
+    "#أنشطة_مدرسية",
+    "#school_activities",
+    "#نشاط_مدرسي",
+    "#school_activity",
+    "#رياضة_مدرسية",
+    "#school_sports",
+    "#نوادي_مدرسية",
+    "#school_clubs",
+    "#مسابقات",
+    "#competitions",
+    "#رحلات_مدرسية",
+    "#school_trips"
+  ],
+  "special_education": [
+    "#التعليم_الخاص",
+    "#special_education",
+    "#ذوي_الاحتياجات_الخاصة",
+    "#special_needs",
+    "#تعليم_شامل",
+    "#inclusive_education",
+    "#دعم_تعليمي",
+    "#educational_support"
+  ],
+  "early_childhood": [
+    "#التعليم_المبكر",
+    "#early_childhood_education",
+    "#رياض_الأطفال",
+    "#kindergarten",
+    "#روضة",
+    "#preschool",
+    "#حضانة",
+    "#nursery",
+    "#تعليم_الطفولة_المبكرة"
+  ],
+  "vocational": [
+    "#التعليم_المهني",
+    "#vocational_education",
+    "#تدريب_مهني",
+    "#vocational_training",
+    "#مهارات_مهنية",
+    "#professional_skills",
+    "#تعليم_تقني",
+    "#technical_education"
+  ],
+  "motivation": [
+    "#تحفيز_دراسي",
+    "#study_motivation",
+    "#تحفيز_طلابي",
+    "#student_motivation",
+    "#طموح",
+    "#ambition",
+    "#اجتهاد",
+    "#diligence",
+    "#مثابرة",
+    "#perseverance",
+    "#نجاح_دراسي",
+    "#academic_success",
+    "#تميز_دراسي",
+    "#academic_excellence"
+  ],
+  "back_to_school": [
+    "#العودة_للمدرسة",
+    "#back_to_school",
+    "#بداية_العام_الدراسي",
+    "#start_of_school_year",
+    "#أول_يوم_دراسي",
+    "#first_day_of_school",
+    "#مستلزمات_مدرسية",
+    "#school_supplies",
+    "#حقيبة_مدرسية",
+    "#school_bag"
+  ],
+  "school_year": [
+    "#العام_الدراسي",
+    "#school_year",
+    "#السنة_الدراسية",
+    "#academic_year",
+    "#فصل_دراسي",
+    "#semester",
+    "#ترم",
+    "#term"
+  ],
+  "tutoring": [
+    "#دروس_خصوصية",
+    "#private_tutoring",
+    "#تدريس_خاص",
+    "#private_lessons",
+    "#معلم_خصوصي",
+    "#private_tutor",
+    "#مساعدة_دراسية",
+    "#study_help"
+  ],
+  "educational_games": [
+    "#ألعاب_تعليمية",
+    "#educational_games",
+    "#تعلم_بالترفيه",
+    "#learning_through_fun",
+    "#تعليم_ممتع",
+    "#fun_learning"
+  ],
+  "stem": [
+    "#علوم_وتكنولوجيا",
+    "#STEM",
+    "#علوم_هندسة_رياضيات",
+    "#science_technology_engineering_math",
+    "#برمجة_للأطفال",
+    "#coding_for_kids",
+    "#روبوتات",
+    "#robotics"
+  ],
+  "parent_involvement": [
+    "#دور_الأهل",
+    "#parent_involvement",
+    "#أولياء_الأمور",
+    "#parents",
+    "#اجتماع_أولياء_الأمور",
+    "#parent_teacher_meeting"
+  ]
+}

@@ -1,0 +1,539 @@
+{
+  "category_info": {
+    "id": "business",
+    "name_en": "Business & Economy",
+    "name_ar": "أعمال واقتصاد",
+    "slug": "business",
+    "icon": "💼",
+    "color": "#8B5CF6",
+    "description_en": "Everything about business, entrepreneurship, economy, investments, and professional growth",
+    "description_ar": "كل ما يتعلق بالأعمال وريادة الأعمال والاقتصاد والاستثمارات والنمو المهني"
+  },
+  "popularity_score": 92,
+  "universal_hashtags": [
+    "#أعمال",
+    "#business",
+    "#اقتصاد",
+    "#economy",
+    "#تجارة",
+    "#trade",
+    "#شركة",
+    "#company",
+    "#شركات",
+    "#مشروع",
+    "#project",
+    "#مشاريع",
+    "#استثمار",
+    "#investment",
+    "#مال",
+    "#money",
+    "#أموال",
+    "#ربح",
+    "#profit",
+    "#نجاح",
+    "#success",
+    "#نمو",
+    "#growth",
+    "#تطوير",
+    "#development",
+    "#إدارة",
+    "#management",
+    "#قيادة",
+    "#leadership",
+    "#احترافية",
+    "#professional"
+  ],
+  "entrepreneurship": [
+    "#ريادة_الأعمال",
+    "#entrepreneurship",
+    "#رائد_أعمال",
+    "#entrepreneur",
+    "#رواد_أعمال",
+    "#entrepreneurs",
+    "#ريادي",
+    "#مقاول",
+    "#مقاولون",
+    "#صاحب_عمل",
+    "#business_owner",
+    "#مشروع_خاص",
+    "#own_business",
+    "#مشروع_ناشئ",
+    "#startup",
+    "#ستارت_أب",
+    "#شركة_ناشئة",
+    "#startup_company",
+    "#مشروع_صغير",
+    "#small_business",
+    "#مشروع_متوسط",
+    "#medium_business",
+    "#مشروع_ريادي",
+    "#entrepreneurial_project",
+    "#فكرة_مشروع",
+    "#business_idea",
+    "#ابتكار",
+    "#innovation",
+    "#إبداع",
+    "#creativity",
+    "#طموح",
+    "#ambition",
+    "#رؤية",
+    "#vision",
+    "#هدف",
+    "#goal",
+    "#تحدي",
+    "#challenge"
+  ],
+  "investment": [
+    "#استثمار",
+    "#investment",
+    "#استثمارات",
+    "#investments",
+    "#مستثمر",
+    "#investor",
+    "#مستثمرون",
+    "#investors",
+    "#صندوق_استثماري",
+    "#investment_fund",
+    "#محفظة_استثمارية",
+    "#portfolio",
+    "#أسهم",
+    "#stocks",
+    "#سهم",
+    "#stock",
+    "#بورصة",
+    "#stock_market",
+    "#سوق_المال",
+    "#financial_market",
+    "#تداول",
+    "#trading",
+    "#متداول",
+    "#trader",
+    "#عقارات",
+    "#real_estate",
+    "#استثمار_عقاري",
+    "#real_estate_investment",
+    "#ذهب",
+    "#gold",
+    "#فضة",
+    "#silver",
+    "#عملات",
+    "#currencies",
+    "#عملات_رقمية",
+    "#crypto",
+    "#بيتكوين",
+    "#bitcoin",
+    "#بلوكتشين",
+    "#blockchain",
+    "#رأس_المال",
+    "#capital",
+    "#تمويل",
+    "#funding",
+    "#عائد_استثمار",
+    "#ROI",
+    "#أرباح",
+    "#returns"
+  ],
+  "finance_banking": [
+    "#مالية",
+    "#finance",
+    "#تمويل",
+    "#financing",
+    "#بنك",
+    "#bank",
+    "#بنوك",
+    "#banks",
+    "#خدمات_مصرفية",
+    "#banking_services",
+    "#قرض",
+    "#loan",
+    "#قروض",
+    "#loans",
+    "#تمويل_شخصي",
+    "#personal_finance",
+    "#تمويل_الأعمال",
+    "#business_financing",
+    "#حساب_بنكي",
+    "#bank_account",
+    "#بطاقة_ائتمانية",
+    "#credit_card",
+    "#فائدة",
+    "#interest",
+    "#فوائد",
+    "#ميزانية",
+    "#budget",
+    "#توفير",
+    "#saving",
+    "#ادخار",
+    "#مدخرات",
+    "#savings",
+    "#ديون",
+    "#debt",
+    "#تسديد",
+    "#payment",
+    "#محاسبة",
+    "#accounting",
+    "#محاسب",
+    "#accountant"
+  ],
+  "marketing_sales": [
+    "#تسويق",
+    "#marketing",
+    "#تسويق_رقمي",
+    "#digital_marketing",
+    "#تسويق_إلكتروني",
+    "#online_marketing",
+    "#مبيعات",
+    "#sales",
+    "#بيع",
+    "#selling",
+    "#مندوب_مبيعات",
+    "#sales_rep",
+    "#إعلان",
+    "#advertising",
+    "#إعلانات",
+    "#ads",
+    "#حملة_تسويقية",
+    "#marketing_campaign",
+    "#علامة_تجارية",
+    "#brand",
+    "#براند",
+    "#هوية_تجارية",
+    "#branding",
+    "#سوشيال_ميديا",
+    "#social_media",
+    "#تسويق_بالمحتوى",
+    "#content_marketing",
+    "#سيو",
+    "#SEO",
+    "#تحسين_محركات_البحث",
+    "#جوجل",
+    "#google",
+    "#إعلانات_جوجل",
+    "#google_ads",
+    "#فيسبوك",
+    "#facebook",
+    "#انستقرام",
+    "#instagram",
+    "#تيك_توك",
+    "#tiktok",
+    "#يوتيوب",
+    "#youtube",
+    "#مؤثر",
+    "#influencer",
+    "#مؤثرون",
+    "#influencers"
+  ],
+  "ecommerce": [
+    "#تجارة_إلكترونية",
+    "#ecommerce",
+    "#متجر_إلكتروني",
+    "#online_store",
+    "#تسوق_إلكتروني",
+    "#online_shopping",
+    "#شوبيفاي",
+    "#shopify",
+    "#أمازون",
+    "#amazon",
+    "#نون",
+    "#noon",
+    "#سلة",
+    "#zid",
+    "#زد",
+    "#متجر",
+    "#store",
+    "#منتج",
+    "#product",
+    "#منتجات",
+    "#products",
+    "#توصيل",
+    "#delivery",
+    "#شحن",
+    "#shipping",
+    "#دروبشيبينج",
+    "#dropshipping",
+    "#بيع_أونلاين",
+    "#selling_online"
+  ],
+  "corporate": [
+    "#شركة",
+    "#corporation",
+    "#مؤسسة",
+    "#institution",
+    "#مؤسسات",
+    "#شركات_كبرى",
+    "#corporate",
+    "#أعمال_تجارية",
+    "#business_affairs",
+    "#مجلس_إدارة",
+    "#board_of_directors",
+    "#مدير_تنفيذي",
+    "#CEO",
+    "#سي_إي_أو",
+    "#مدير_عام",
+    "#general_manager",
+    "#إدارة_عليا",
+    "#senior_management",
+    "#فريق_عمل",
+    "#team",
+    "#موظف",
+    "#employee",
+    "#موظفون",
+    "#employees",
+    "#قوى_عاملة",
+    "#workforce",
+    "#موارد_بشرية",
+    "#HR",
+    "#human_resources",
+    "#توظيف",
+    "#recruitment",
+    "#وظيفة",
+    "#job",
+    "#وظائف",
+    "#jobs",
+    "#مقابلة_عمل",
+    "#job_interview",
+    "#سيرة_ذاتية",
+    "#CV",
+    "#resume"
+  ],
+  "economy_markets": [
+    "#اقتصاد",
+    "#economy",
+    "#اقتصاد_عالمي",
+    "#global_economy",
+    "#اقتصاد_محلي",
+    "#local_economy",
+    "#سوق",
+    "#market",
+    "#أسواق",
+    "#markets",
+    "#تضخم",
+    "#inflation",
+    "#أسعار",
+    "#prices",
+    "#صرف",
+    "#exchange",
+    "#دولار",
+    "#dollar",
+    "#يورو",
+    "#euro",
+    "#ريال",
+    "#riyal",
+    "#درهم",
+    "#dirham",
+    "#جنيه",
+    "#pound",
+    "#نفط",
+    "#oil",
+    "#بترول",
+    "#petroleum",
+    "#غاز",
+    "#gas",
+    "#طاقة",
+    "#energy",
+    "#صادرات",
+    "#exports",
+    "#واردات",
+    "#imports",
+    "#ميزان_تجاري",
+    "#trade_balance",
+    "#ناتج_محلي",
+    "#GDP"
+  ],
+  "professional_development": [
+    "#تطوير_مهني",
+    "#professional_development",
+    "#تطوير_الذات",
+    "#self_development",
+    "#مهارات",
+    "#skills",
+    "#تدريب",
+    "#training",
+    "#دورات",
+    "#courses",
+    "#ورش_عمل",
+    "#workshops",
+    "#شهادات",
+    "#certificates",
+    "#خبرة",
+    "#experience",
+    "#كفاءة",
+    "#competence",
+    "#احترافية",
+    "#professionalism",
+    "#إنتاجية",
+    "#productivity",
+    "#كفاءة_عمل",
+    "#work_efficiency",
+    "#مهارات_القيادة",
+    "#leadership_skills",
+    "#إدارة_الوقت",
+    "#time_management",
+    "#تواصل",
+    "#communication",
+    "#عمل_جماعي",
+    "#teamwork",
+    "#حل_المشكلات",
+    "#problem_solving"
+  ],
+  "small_business": [
+    "#مشروع_صغير",
+    "#small_business",
+    "#مشروع_منزلي",
+    "#home_business",
+    "#عمل_حر",
+    "#freelance",
+    "#فريلانس",
+    "#مستقل",
+    "#freelancer",
+    "#عمل_من_المنزل",
+    "#work_from_home",
+    "#عمل_عن_بعد",
+    "#remote_work",
+    "#مشروع_جانبي",
+    "#side_hustle",
+    "#دخل_إضافي",
+    "#extra_income",
+    "#دخل_سلبي",
+    "#passive_income"
+  ],
+  "business_strategy": [
+    "#استراتيجية",
+    "#strategy",
+    "#استراتيجية_عمل",
+    "#business_strategy",
+    "#تخطيط",
+    "#planning",
+    "#خطة_عمل",
+    "#business_plan",
+    "#أهداف",
+    "#objectives",
+    "#رؤية_استراتيجية",
+    "#strategic_vision",
+    "#تحليل",
+    "#analysis",
+    "#تحليل_سوق",
+    "#market_analysis",
+    "#منافسة",
+    "#competition",
+    "#منافسون",
+    "#competitors",
+    "#ميزة_تنافسية",
+    "#competitive_advantage",
+    "#توسع",
+    "#expansion",
+    "#نمو_الأعمال",
+    "#business_growth"
+  ],
+  "technology_business": [
+    "#تقنية_الأعمال",
+    "#business_technology",
+    "#تحول_رقمي",
+    "#digital_transformation",
+    "#أتمتة",
+    "#automation",
+    "#ذكاء_اصطناعي",
+    "#AI",
+    "#artificial_intelligence",
+    "#بيانات",
+    "#data",
+    "#تحليل_البيانات",
+    "#data_analysis",
+    "#برمجيات",
+    "#software",
+    "#تطبيقات",
+    "#applications",
+    "#سحابة",
+    "#cloud",
+    "#حوسبة_سحابية",
+    "#cloud_computing"
+  ],
+  "networking": [
+    "#علاقات",
+    "#networking",
+    "#تواصل_مهني",
+    "#professional_networking",
+    "#لينكد_إن",
+    "#linkedin",
+    "#مؤتمر",
+    "#conference",
+    "#مؤتمرات",
+    "#conferences",
+    "#معرض",
+    "#exhibition",
+    "#معارض",
+    "#فعالية_أعمال",
+    "#business_event",
+    "#ندوة",
+    "#seminar",
+    "#محاضرة",
+    "#lecture"
+  ],
+  "success_motivation": [
+    "#نجاح",
+    "#success",
+    "#نجاح_الأعمال",
+    "#business_success",
+    "#تحفيز",
+    "#motivation",
+    "#إلهام",
+    "#inspiration",
+    "#طموح",
+    "#ambition",
+    "#إصرار",
+    "#determination",
+    "#مثابرة",
+    "#perseverance",
+    "#إنجاز",
+    "#achievement",
+    "#تميز",
+    "#excellence",
+    "#قصة_نجاح",
+    "#success_story",
+    "#ملهم",
+    "#inspiring",
+    "#رائد",
+    "#pioneer"
+  ],
+  "legal_compliance": [
+    "#قانوني",
+    "#legal",
+    "#ترخيص",
+    "#licensing",
+    "#سجل_تجاري",
+    "#commercial_register",
+    "#عقد",
+    "#contract",
+    "#عقود",
+    "#contracts",
+    "#اتفاقية",
+    "#agreement",
+    "#امتثال",
+    "#compliance",
+    "#قوانين",
+    "#regulations",
+    "#ضرائب",
+    "#taxes",
+    "#زكاة",
+    "#محامي_أعمال",
+    "#business_lawyer"
+  ],
+  "consulting": [
+    "#استشارات",
+    "#consulting",
+    "#استشاري",
+    "#consultant",
+    "#مستشار_أعمال",
+    "#business_consultant",
+    "#استشارات_إدارية",
+    "#management_consulting",
+    "#استشارات_مالية",
+    "#financial_consulting",
+    "#استشارات_تسويقية",
+    "#marketing_consulting",
+    "#خبير",
+    "#expert",
+    "#خبراء",
+    "#experts"
+  ]
+}

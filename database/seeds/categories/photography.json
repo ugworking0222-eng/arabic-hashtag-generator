@@ -1,0 +1,522 @@
+{
+  "category_info": {
+    "id": "photography",
+    "name_en": "Photography & Art",
+    "name_ar": "تصوير وفنون",
+    "slug": "photography",
+    "icon": "📷",
+    "color": "#6366F1",
+    "description_en": "Everything about photography, cameras, photo editing, visual arts, and creative expression",
+    "description_ar": "كل ما يتعلق بالتصوير والكاميرات وتحرير الصور والفنون البصرية والتعبير الإبداعي"
+  },
+  "popularity_score": 98,
+  "universal_hashtags": [
+    "#تصوير",
+    "#photography",
+    "#صورة",
+    "#photo",
+    "#صور",
+    "#photos",
+    "#تصويري",
+    "#my_photography",
+    "#مصور",
+    "#photographer",
+    "#مصورة",
+    "#تصوير_فوتوغرافي",
+    "#فوتوغرافي",
+    "#photographic",
+    "#فن",
+    "#art",
+    "#فنون",
+    "#arts",
+    "#إبداع",
+    "#creativity",
+    "#فنان",
+    "#artist",
+    "#فنانة"
+  ],
+  "camera_equipment": [
+    "#كاميرا",
+    "#camera",
+    "#كاميرات",
+    "#cameras",
+    "#كانون",
+    "#canon",
+    "#نيكون",
+    "#nikon",
+    "#سوني",
+    "#sony",
+    "#فوجي",
+    "#fuji",
+    "#DSLR",
+    "#ميرورليس",
+    "#mirrorless",
+    "#كاميرا_احترافية",
+    "#professional_camera",
+    "#معدات_تصوير",
+    "#photography_equipment"
+  ],
+  "lenses": [
+    "#عدسة",
+    "#lens",
+    "#عدسات",
+    "#lenses",
+    "#عدسة_احترافية",
+    "#professional_lens",
+    "#عدسة_بورتريه",
+    "#portrait_lens",
+    "#عدسة_واسعة",
+    "#wide_lens",
+    "#عدسة_زوم",
+    "#zoom_lens",
+    "#عدسة_ماكرو",
+    "#macro_lens"
+  ],
+  "photography_types": [
+    "#تصوير_احترافي",
+    "#professional_photography",
+    "#تصوير_فوتوغرافي_احترافي",
+    "#pro_photography",
+    "#مصور_محترف",
+    "#professional_photographer",
+    "#تصوير_هاوي",
+    "#amateur_photography"
+  ],
+  "portrait": [
+    "#بورتريه",
+    "#portrait",
+    "#تصوير_بورتريه",
+    "#portrait_photography",
+    "#صورة_شخصية",
+    "#تصوير_أشخاص",
+    "#people_photography",
+    "#صورة_قريبة",
+    "#closeup",
+    "#كلوز_اب",
+    "#تصوير_وجوه",
+    "#face_photography"
+  ],
+  "landscape": [
+    "#لاندسكيب",
+    "#landscape",
+    "#تصوير_طبيعة",
+    "#nature_photography",
+    "#مناظر_طبيعية",
+    "#natural_landscapes",
+    "#تصوير_مناظر",
+    "#landscape_photography",
+    "#جبال",
+    "#mountains",
+    "#بحر",
+    "#sea",
+    "#غروب",
+    "#sunset",
+    "#شروق",
+    "#sunrise"
+  ],
+  "street": [
+    "#تصوير_الشارع",
+    "#street_photography",
+    "#ستريت_فوتوغرافي",
+    "#شارع",
+    "#street",
+    "#حياة_يومية",
+    "#daily_life",
+    "#لحظات_عفوية",
+    "#candid_moments"
+  ],
+  "travel": [
+    "#تصوير_سفر",
+    "#travel_photography",
+    "#تصوير_رحلات",
+    "#trip_photography",
+    "#مصور_سفر",
+    "#travel_photographer",
+    "#رحلات",
+    "#travels",
+    "#استكشاف",
+    "#exploration"
+  ],
+  "wedding": [
+    "#تصوير_أعراس",
+    "#wedding_photography",
+    "#تصوير_زفاف",
+    "#مصور_أعراس",
+    "#wedding_photographer",
+    "#عروس",
+    "#bride",
+    "#عريس",
+    "#groom",
+    "#حفل_زفاف",
+    "#wedding_ceremony"
+  ],
+  "events": [
+    "#تصوير_فعاليات",
+    "#event_photography",
+    "#تصوير_حفلات",
+    "#party_photography",
+    "#مصور_فعاليات",
+    "#event_photographer",
+    "#حفلة",
+    "#party",
+    "#احتفال",
+    "#celebration"
+  ],
+  "product": [
+    "#تصوير_منتجات",
+    "#product_photography",
+    "#تصوير_تجاري",
+    "#commercial_photography",
+    "#منتجات",
+    "#products",
+    "#تصوير_دعائي",
+    "#advertising_photography"
+  ],
+  "food": [
+    "#تصوير_طعام",
+    "#food_photography",
+    "#فود_فوتوغرافي",
+    "#food_photo",
+    "#صور_طعام",
+    "#food_photos",
+    "#أكل",
+    "#food",
+    "#مطعم",
+    "#restaurant"
+  ],
+  "fashion": [
+    "#تصوير_أزياء",
+    "#fashion_photography",
+    "#فاشن_فوتوغرافي",
+    "#موضة",
+    "#fashion",
+    "#مصور_أزياء",
+    "#fashion_photographer",
+    "#عارضة_أزياء",
+    "#model"
+  ],
+  "macro": [
+    "#ماكرو",
+    "#macro",
+    "#تصوير_ماكرو",
+    "#macro_photography",
+    "#تصوير_قريب_جداً",
+    "#extreme_closeup",
+    "#تفاصيل",
+    "#details",
+    "#حشرات",
+    "#insects",
+    "#زهور",
+    "#flowers"
+  ],
+  "wildlife": [
+    "#تصوير_حياة_برية",
+    "#wildlife_photography",
+    "#حيوانات",
+    "#animals",
+    "#طيور",
+    "#birds",
+    "#تصوير_حيوانات",
+    "#animal_photography",
+    "#طبيعة",
+    "#nature"
+  ],
+  "architecture": [
+    "#تصوير_معماري",
+    "#architecture_photography",
+    "#عمارة",
+    "#architecture",
+    "#مباني",
+    "#buildings",
+    "#معالم",
+    "#landmarks"
+  ],
+  "black_white": [
+    "#أبيض_وأسود",
+    "#black_and_white",
+    "#بلاك_اند_وايت",
+    "#bnw",
+    "#مونوكروم",
+    "#monochrome",
+    "#تصوير_أبيض_وأسود",
+    "#bw_photography"
+  ],
+  "lighting": [
+    "#إضاءة",
+    "#lighting",
+    "#ضوء",
+    "#light",
+    "#إضاءة_طبيعية",
+    "#natural_light",
+    "#ضوء_طبيعي",
+    "#إضاءة_استوديو",
+    "#studio_lighting",
+    "#فلاش",
+    "#flash"
+  ],
+  "composition": [
+    "#تكوين",
+    "#composition",
+    "#إطار",
+    "#frame",
+    "#زاوية",
+    "#angle",
+    "#منظور",
+    "#perspective",
+    "#تأطير",
+    "#framing"
+  ],
+  "editing": [
+    "#تعديل_الصور",
+    "#photo_editing",
+    "#فوتوشوب",
+    "#photoshop",
+    "#لايت_روم",
+    "#lightroom",
+    "#تحرير_الصور",
+    "#image_editing",
+    "#ريتاتش",
+    "#retouch",
+    "#فلتر",
+    "#filter",
+    "#فلاتر",
+    "#filters",
+    "#تأثيرات",
+    "#effects"
+  ],
+  "mobile_photography": [
+    "#تصوير_موبايل",
+    "#mobile_photography",
+    "#تصوير_جوال",
+    "#phone_photography",
+    "#آيفون_فوتوغرافي",
+    "#iphone_photography",
+    "#كاميرا_الجوال",
+    "#phone_camera"
+  ],
+  "instagram": [
+    "#انستقرام",
+    "#instagram",
+    "#صورة_اليوم",
+    "#photo_of_the_day",
+    "#بيست_اوف_ذا_داي",
+    "#best_of_the_day",
+    "#انستا_فوتو",
+    "#insta_photo",
+    "#انستا_جود",
+    "#instagood"
+  ],
+  "photo_contest": [
+    "#مسابقة_تصوير",
+    "#photo_contest",
+    "#مسابقة_صور",
+    "#photography_competition",
+    "#تحدي_تصوير",
+    "#photo_challenge"
+  ],
+  "visual_arts": [
+    "#فنون_بصرية",
+    "#visual_arts",
+    "#فن_بصري",
+    "#visual_art",
+    "#رسم",
+    "#drawing",
+    "#لوحة",
+    "#painting",
+    "#رسام",
+    "#painter",
+    "#تشكيلي",
+    "#plastic_arts"
+  ],
+  "digital_art": [
+    "#فن_رقمي",
+    "#digital_art",
+    "#ديجيتال_آرت",
+    "#رسم_رقمي",
+    "#digital_drawing",
+    "#تصميم_رقمي",
+    "#digital_design"
+  ],
+  "illustration": [
+    "#إليستريشن",
+    "#illustration",
+    "#رسوم_توضيحية",
+    "#رسامة",
+    "#illustrator",
+    "#رسم_يدوي",
+    "#hand_drawing"
+  ],
+  "graphic_design": [
+    "#تصميم_جرافيك",
+    "#graphic_design",
+    "#جرافيك",
+    "#graphic",
+    "#مصمم_جرافيك",
+    "#graphic_designer",
+    "#ديزاين",
+    "#design",
+    "#تصميم",
+    "#مصمم",
+    "#designer"
+  ],
+  "calligraphy": [
+    "#خط_عربي",
+    "#arabic_calligraphy",
+    "#خطاط",
+    "#calligrapher",
+    "#فن_الخط",
+    "#calligraphy_art",
+    "#خط",
+    "#calligraphy"
+  ],
+  "sculpture": [
+    "#نحت",
+    "#sculpture",
+    "#تمثال",
+    "#statue",
+    "#نحات",
+    "#sculptor",
+    "#فن_النحت",
+    "#sculpture_art"
+  ],
+  "graffiti": [
+    "#جرافيتي",
+    "#graffiti",
+    "#فن_الشارع",
+    "#street_art",
+    "#رسم_على_الجدران",
+    "#wall_art",
+    "#جداريات",
+    "#murals"
+  ],
+  "abstract": [
+    "#فن_تجريدي",
+    "#abstract_art",
+    "#تجريدي",
+    "#abstract",
+    "#حديث",
+    "#modern_art"
+  ],
+  "watercolor": [
+    "#ألوان_مائية",
+    "#watercolor",
+    "#رسم_مائي",
+    "#watercolor_painting",
+    "#أكواريل",
+    "#aquarelle"
+  ],
+  "oil_painting": [
+    "#رسم_زيتي",
+    "#oil_painting",
+    "#ألوان_زيتية",
+    "#oil_colors"
+  ],
+  "sketch": [
+    "#سكتش",
+    "#sketch",
+    "#رسم_تخطيطي",
+    "#sketching",
+    "#رسومات",
+    "#drawings"
+  ],
+  "ceramic": [
+    "#خزف",
+    "#ceramic",
+    "#فخار",
+    "#pottery",
+    "#خزفيات",
+    "#ceramics"
+  ],
+  "handmade": [
+    "#صنع_يدوي",
+    "#handmade",
+    "#يدوي",
+    "#حرف_يدوية",
+    "#handicrafts",
+    "#أعمال_يدوية",
+    "#handwork"
+  ],
+  "exhibitions": [
+    "#معرض",
+    "#exhibition",
+    "#معرض_فني",
+    "#art_exhibition",
+    "#معرض_صور",
+    "#photo_exhibition",
+    "#غاليري",
+    "#gallery",
+    "#صالة_عرض",
+    "#art_gallery"
+  ],
+  "inspiration": [
+    "#إلهام",
+    "#inspiration",
+    "#ملهم",
+    "#inspiring",
+    "#إبداع_فني",
+    "#artistic_creativity",
+    "#موهبة",
+    "#talent",
+    "#موهوب",
+    "#talented"
+  ],
+  "behind_scenes": [
+    "#خلف_الكواليس",
+    "#behind_the_scenes",
+    "#كواليس_التصوير",
+    "#photography_bts",
+    "#صناعة_الصورة",
+    "#making_of"
+  ],
+  "photo_tips": [
+    "#نصائح_تصوير",
+    "#photography_tips",
+    "#تعلم_التصوير",
+    "#learn_photography",
+    "#دروس_تصوير",
+    "#photography_lessons",
+    "#تقنيات_التصوير",
+    "#photography_techniques"
+  ],
+  "camera_settings": [
+    "#إعدادات_الكاميرا",
+    "#camera_settings",
+    "#ISO",
+    "#شاتر_سبيد",
+    "#shutter_speed",
+    "#فتحة_العدسة",
+    "#aperture",
+    "#تعريض",
+    "#exposure"
+  ],
+  "photo_series": [
+    "#سلسلة_صور",
+    "#photo_series",
+    "#مجموعة_صور",
+    "#photo_collection",
+    "#ألبوم",
+    "#album"
+  ],
+  "photo_project": [
+    "#مشروع_تصوير",
+    "#photo_project",
+    "#مشروع_فوتوغرافي",
+    "#photography_project"
+  ],
+  "fine_art": [
+    "#فن_راقي",
+    "#fine_art",
+    "#فنون_جميلة",
+    "#fine_arts",
+    "#تصوير_فني",
+    "#artistic_photography"
+  ],
+  "creative": [
+    "#إبداعي",
+    "#creative",
+    "#تصوير_إبداعي",
+    "#creative_photography",
+    "#فكرة_إبداعية",
+    "#creative_idea"
+  ]
+}

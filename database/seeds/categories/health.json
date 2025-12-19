@@ -1,0 +1,576 @@
+{
+  "category_info": {
+    "id": "health",
+    "name_en": "Health & Wellness",
+    "name_ar": "صحة وعافية",
+    "slug": "health",
+    "icon": "🏥",
+    "color": "#059669",
+    "description_en": "Everything about health, wellness, medical care, mental health, and healthy living",
+    "description_ar": "كل ما يتعلق بالصحة والعافية والرعاية الطبية والصحة النفسية والحياة الصحية"
+  },
+  "popularity_score": 93,
+  "universal_hashtags": [
+    "#صحة",
+    "#health",
+    "#صحي",
+    "#healthy",
+    "#عافية",
+    "#wellness",
+    "#صحة_وعافية",
+    "#health_wellness",
+    "#حياة_صحية",
+    "#healthy_life",
+    "#نمط_حياة_صحي",
+    "#healthy_lifestyle",
+    "#صحتك",
+    "#your_health",
+    "#صحة_أولاً",
+    "#health_first",
+    "#اهتم_بصحتك",
+    "#take_care",
+    "#رعاية_صحية",
+    "#healthcare",
+    "#طب",
+    "#medicine",
+    "#علاج",
+    "#treatment",
+    "#وقاية",
+    "#prevention",
+    "#توعية_صحية",
+    "#health_awareness"
+  ],
+  "medical_general": [
+    "#طبيب",
+    "#doctor",
+    "#دكتور",
+    "#طبيبة",
+    "#مستشفى",
+    "#hospital",
+    "#عيادة",
+    "#clinic",
+    "#مركز_طبي",
+    "#medical_center",
+    "#رعاية_طبية",
+    "#medical_care",
+    "#فحص_طبي",
+    "#medical_checkup",
+    "#كشف",
+    "#examination",
+    "#تشخيص",
+    "#diagnosis",
+    "#علاج_طبي",
+    "#medical_treatment",
+    "#دواء",
+    "#medicine",
+    "#أدوية",
+    "#medications",
+    "#صيدلية",
+    "#pharmacy",
+    "#صيدلي",
+    "#pharmacist",
+    "#وصفة_طبية",
+    "#prescription",
+    "#جراحة",
+    "#surgery",
+    "#عملية",
+    "#operation"
+  ],
+  "specialties": [
+    "#طب_عام",
+    "#general_medicine",
+    "#طب_الأطفال",
+    "#pediatrics",
+    "#أطفال",
+    "#children_health",
+    "#طب_النساء",
+    "#gynecology",
+    "#طب_القلب",
+    "#cardiology",
+    "#قلب",
+    "#heart",
+    "#طب_الأسنان",
+    "#dentistry",
+    "#أسنان",
+    "#teeth",
+    "#طبيب_أسنان",
+    "#dentist",
+    "#طب_العيون",
+    "#ophthalmology",
+    "#عيون",
+    "#eyes",
+    "#طب_العظام",
+    "#orthopedics",
+    "#عظام",
+    "#bones",
+    "#طب_الجلدية",
+    "#dermatology",
+    "#جلدية",
+    "#skin",
+    "#طب_نفسي",
+    "#psychiatry",
+    "#طب_باطني",
+    "#internal_medicine",
+    "#جراحة_عامة",
+    "#general_surgery"
+  ],
+  "mental_health": [
+    "#صحة_نفسية",
+    "#mental_health",
+    "#الصحة_النفسية",
+    "#صحة_عقلية",
+    "#mental_wellness",
+    "#راحة_نفسية",
+    "#peace_of_mind",
+    "#سلام_نفسي",
+    "#inner_peace",
+    "#نفسية",
+    "#psychology",
+    "#علم_النفس",
+    "#استشارة_نفسية",
+    "#counseling",
+    "#معالج_نفسي",
+    "#therapist",
+    "#علاج_نفسي",
+    "#psychotherapy",
+    "#اكتئاب",
+    "#depression",
+    "#قلق",
+    "#anxiety",
+    "#توتر",
+    "#stress",
+    "#تخفيف_التوتر",
+    "#stress_relief",
+    "#إدارة_التوتر",
+    "#stress_management",
+    "#تأمل",
+    "#meditation",
+    "#استرخاء",
+    "#relaxation",
+    "#يوغا_للعقل",
+    "#mindfulness",
+    "#صحة_عاطفية",
+    "#emotional_health",
+    "#سعادة",
+    "#happiness",
+    "#إيجابية",
+    "#positivity",
+    "#تفكير_إيجابي",
+    "#positive_thinking"
+  ],
+  "nutrition": [
+    "#تغذية",
+    "#nutrition",
+    "#تغذية_صحية",
+    "#healthy_nutrition",
+    "#نظام_غذائي",
+    "#diet",
+    "#أكل_صحي",
+    "#healthy_eating",
+    "#طعام_صحي",
+    "#healthy_food",
+    "#وجبة_صحية",
+    "#healthy_meal",
+    "#خضروات",
+    "#vegetables",
+    "#فواكه",
+    "#fruits",
+    "#بروتين",
+    "#protein",
+    "#فيتامينات",
+    "#vitamins",
+    "#معادن",
+    "#minerals",
+    "#ألياف",
+    "#fiber",
+    "#ماء",
+    "#water",
+    "#شرب_الماء",
+    "#drink_water",
+    "#هيدرات",
+    "#hydration",
+    "#أوميغا_٣",
+    "#omega_3",
+    "#مكملات_غذائية",
+    "#supplements",
+    "#فيتامين_دي",
+    "#vitamin_d"
+  ],
+  "diet_plans": [
+    "#رجيم",
+    "#diet_plan",
+    "#دايت",
+    "#نظام_غذائي_صحي",
+    "#healthy_diet_plan",
+    "#تخسيس_صحي",
+    "#healthy_weight_loss",
+    "#خسارة_وزن",
+    "#losing_weight",
+    "#إنقاص_الوزن",
+    "#weight_reduction",
+    "#حمية",
+    "#كيتو",
+    "#keto",
+    "#كيتو_دايت",
+    "#keto_diet",
+    "#لو_كارب",
+    "#low_carb",
+    "#صيام_متقطع",
+    "#intermittent_fasting",
+    "#نباتي",
+    "#vegetarian",
+    "#فيجن",
+    "#vegan",
+    "#خالي_من_الغلوتين",
+    "#gluten_free",
+    "#سكري",
+    "#diabetic",
+    "#نظام_سكري",
+    "#diabetic_diet"
+  ],
+  "fitness_health": [
+    "#لياقة_بدنية",
+    "#physical_fitness",
+    "#تمارين_صحية",
+    "#healthy_exercise",
+    "#نشاط_بدني",
+    "#physical_activity",
+    "#حركة",
+    "#movement",
+    "#مشي",
+    "#walking",
+    "#جري_صحي",
+    "#healthy_running",
+    "#رياضة_صحية",
+    "#healthy_sports",
+    "#تمارين_كارديو",
+    "#cardio_exercises",
+    "#قلب_صحي",
+    "#healthy_heart"
+  ],
+  "diseases_conditions": [
+    "#أمراض",
+    "#diseases",
+    "#مرض",
+    "#illness",
+    "#سكري",
+    "#diabetes",
+    "#ضغط",
+    "#blood_pressure",
+    "#ضغط_الدم",
+    "#hypertension",
+    "#كوليسترول",
+    "#cholesterol",
+    "#سرطان",
+    "#cancer",
+    "#مناعة",
+    "#immunity",
+    "#جهاز_مناعي",
+    "#immune_system",
+    "#حساسية",
+    "#allergy",
+    "#ربو",
+    "#asthma",
+    "#إنفلونزا",
+    "#flu",
+    "#زكام",
+    "#cold",
+    "#كورونا",
+    "#corona",
+    "#كوفيد",
+    "#covid",
+    "#وقاية_من_الأمراض",
+    "#disease_prevention"
+  ],
+  "womens_health": [
+    "#صحة_المرأة",
+    "#womens_health",
+    "#صحة_نسائية",
+    "#صحة_الحامل",
+    "#pregnancy_health",
+    "#حمل",
+    "#pregnancy",
+    "#حامل",
+    "#pregnant",
+    "#ولادة",
+    "#birth",
+    "#أمومة",
+    "#motherhood",
+    "#رعاية_الحامل",
+    "#prenatal_care",
+    "#ما_بعد_الولادة",
+    "#postpartum",
+    "#رضاعة",
+    "#breastfeeding",
+    "#رضاعة_طبيعية",
+    "#natural_breastfeeding",
+    "#صحة_الثدي",
+    "#breast_health",
+    "#انقطاع_الطمث",
+    "#menopause",
+    "#دورة_شهرية",
+    "#menstrual_cycle"
+  ],
+  "mens_health": [
+    "#صحة_الرجل",
+    "#mens_health",
+    "#صحة_رجالية",
+    "#صحة_الذكور",
+    "#male_health",
+    "#صحة_البروستاتا",
+    "#prostate_health",
+    "#هرمونات_ذكورية",
+    "#male_hormones",
+    "#تستوستيرون",
+    "#testosterone"
+  ],
+  "child_health": [
+    "#صحة_الطفل",
+    "#child_health",
+    "#صحة_الأطفال",
+    "#children_health",
+    "#رعاية_الأطفال",
+    "#childcare",
+    "#طفل_سليم",
+    "#healthy_child",
+    "#تطعيمات",
+    "#vaccinations",
+    "#لقاحات",
+    "#vaccines",
+    "#نمو_الطفل",
+    "#child_development",
+    "#تغذية_الأطفال",
+    "#child_nutrition",
+    "#صحة_الرضيع",
+    "#infant_health",
+    "#مناعة_الأطفال",
+    "#child_immunity"
+  ],
+  "elderly_health": [
+    "#صحة_كبار_السن",
+    "#elderly_health",
+    "#صحة_المسنين",
+    "#senior_health",
+    "#رعاية_المسنين",
+    "#elderly_care",
+    "#شيخوخة_صحية",
+    "#healthy_aging",
+    "#عمر_صحي",
+    "#healthy_age"
+  ],
+  "preventive_care": [
+    "#وقاية",
+    "#prevention",
+    "#الوقاية_خير_من_العلاج",
+    "#prevention_better_than_cure",
+    "#فحوصات_دورية",
+    "#regular_checkups",
+    "#فحص_شامل",
+    "#comprehensive_checkup",
+    "#فحص_مبكر",
+    "#early_detection",
+    "#كشف_مبكر",
+    "#early_screening",
+    "#تحاليل",
+    "#lab_tests",
+    "#تحليل_دم",
+    "#blood_test",
+    "#فحص_سنوي",
+    "#annual_checkup"
+  ],
+  "sleep_health": [
+    "#نوم_صحي",
+    "#healthy_sleep",
+    "#نوم",
+    "#sleep",
+    "#جودة_النوم",
+    "#sleep_quality",
+    "#اضطرابات_النوم",
+    "#sleep_disorders",
+    "#أرق",
+    "#insomnia",
+    "#نوم_عميق",
+    "#deep_sleep",
+    "#راحة",
+    "#rest",
+    "#استيقاظ_مبكر",
+    "#early_wake_up",
+    "#روتين_نوم",
+    "#sleep_routine"
+  ],
+  "alternative_medicine": [
+    "#طب_بديل",
+    "#alternative_medicine",
+    "#طب_تكميلي",
+    "#complementary_medicine",
+    "#أعشاب",
+    "#herbs",
+    "#طب_الأعشاب",
+    "#herbal_medicine",
+    "#علاج_طبيعي",
+    "#natural_treatment",
+    "#حجامة",
+    "#cupping",
+    "#إبر_صينية",
+    "#acupuncture",
+    "#علاج_بالطاقة",
+    "#energy_healing",
+    "#طب_شعبي",
+    "#traditional_medicine",
+    "#عسل",
+    "#honey",
+    "#حبة_البركة",
+    "#black_seed"
+  ],
+  "physiotherapy": [
+    "#علاج_طبيعي",
+    "#physiotherapy",
+    "#فيزيوثيرابي",
+    "#تأهيل",
+    "#rehabilitation",
+    "#تأهيل_طبي",
+    "#medical_rehabilitation",
+    "#علاج_فيزيائي",
+    "#physical_therapy",
+    "#تمارين_علاجية",
+    "#therapeutic_exercises",
+    "#مساج_علاجي",
+    "#therapeutic_massage"
+  ],
+  "home_remedies": [
+    "#علاج_منزلي",
+    "#home_remedy",
+    "#علاجات_منزلية",
+    "#home_remedies",
+    "#وصفات_طبيعية",
+    "#natural_recipes",
+    "#علاج_طبيعي_منزلي",
+    "#natural_home_treatment",
+    "#خلطات_طبيعية",
+    "#natural_mixtures"
+  ],
+  "vitamins_supplements": [
+    "#فيتامينات",
+    "#vitamins",
+    "#مكملات",
+    "#supplements",
+    "#فيتامين_سي",
+    "#vitamin_c",
+    "#فيتامين_دي",
+    "#vitamin_d",
+    "#فيتامين_ب",
+    "#vitamin_b",
+    "#كالسيوم",
+    "#calcium",
+    "#حديد",
+    "#iron",
+    "#زنك",
+    "#zinc",
+    "#مغنيسيوم",
+    "#magnesium",
+    "#أوميغا",
+    "#omega"
+  ],
+  "weight_management": [
+    "#إدارة_الوزن",
+    "#weight_management",
+    "#وزن_صحي",
+    "#healthy_weight",
+    "#مؤشر_كتلة_الجسم",
+    "#BMI",
+    "#زيادة_الوزن",
+    "#weight_gain",
+    "#نقص_الوزن",
+    "#underweight",
+    "#سمنة",
+    "#obesity",
+    "#محاربة_السمنة",
+    "#fighting_obesity"
+  ],
+  "immune_system": [
+    "#جهاز_مناعي",
+    "#immune_system",
+    "#مناعة",
+    "#immunity",
+    "#تقوية_المناعة",
+    "#boost_immunity",
+    "#مناعة_قوية",
+    "#strong_immunity",
+    "#دفاعات_الجسم",
+    "#body_defense"
+  ],
+  "detox_cleanse": [
+    "#ديتوكس",
+    "#detox",
+    "#تنظيف_الجسم",
+    "#body_cleanse",
+    "#تخليص_السموم",
+    "#toxin_removal",
+    "#سموم",
+    "#toxins",
+    "#تطهير",
+    "#cleansing"
+  ],
+  "chronic_diseases": [
+    "#أمراض_مزمنة",
+    "#chronic_diseases",
+    "#مرض_مزمن",
+    "#chronic_illness",
+    "#إدارة_الأمراض_المزمنة",
+    "#chronic_disease_management",
+    "#التعايش_مع_المرض",
+    "#living_with_disease"
+  ],
+  "emergency": [
+    "#طوارئ",
+    "#emergency",
+    "#إسعاف",
+    "#ambulance",
+    "#إسعافات_أولية",
+    "#first_aid",
+    "#حالة_طارئة",
+    "#emergency_case",
+    "#رعاية_طارئة",
+    "#emergency_care"
+  ],
+  "medical_technology": [
+    "#تقنية_طبية",
+    "#medical_technology",
+    "#أجهزة_طبية",
+    "#medical_devices",
+    "#تكنولوجيا_الصحة",
+    "#health_tech",
+    "#طب_رقمي",
+    "#digital_health",
+    "#تطبيقات_صحية",
+    "#health_apps",
+    "#مراقبة_صحية",
+    "#health_monitoring"
+  ],
+  "health_tips": [
+    "#نصائح_صحية",
+    "#health_tips",
+    "#نصيحة_صحية",
+    "#health_advice",
+    "#معلومات_صحية",
+    "#health_information",
+    "#توعية",
+    "#awareness",
+    "#صحة_عامة",
+    "#public_health",
+    "#ثقافة_صحية",
+    "#health_education"
+  ],
+  "recovery": [
+    "#تعافي",
+    "#recovery",
+    "#شفاء",
+    "#healing",
+    "#استشفاء",
+    "#recuperation",
+    "#نقاهة",
+    "#convalescence",
+    "#عودة_للصحة",
+    "#return_to_health"
+  ]
+}

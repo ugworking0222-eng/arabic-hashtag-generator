@@ -1,0 +1,542 @@
+{
+  "country_info": {
+    "id": "morocco",
+    "name_en": "Morocco",
+    "name_ar": "المغرب",
+    "code": "MA",
+    "flag": "🇲🇦",
+    "capital": "Rabat",
+    "capital_ar": "الرباط",
+    "region": "North Africa",
+    "region_ar": "شمال أفريقيا",
+    "language": "Arabic, French",
+    "currency": "MAD",
+    "description_en": "Morocco hashtags for cities, culture, food, tourism, and Moroccan lifestyle",
+    "description_ar": "هاشتاقات المغرب للمدن والثقافة والطعام والسياحة ونمط الحياة المغربي"
+  },
+  "popularity_score": 95,
+  "general_hashtags": [
+    "#المغرب",
+    "#morocco",
+    "#مغربي",
+    "#moroccan",
+    "#مغربية",
+    "#في_المغرب",
+    "#in_morocco",
+    "#حب_المغرب",
+    "#love_morocco",
+    "#المغرب_الحبيب",
+    "#حياة_المغرب",
+    "#morocco_life",
+    "#يوميات_المغرب",
+    "#morocco_daily",
+    "#جمال_المغرب",
+    "#morocco_beauty",
+    "#المغرب_اليوم",
+    "#morocco_today",
+    "#أهل_المغرب",
+    "#people_of_morocco",
+    "#شعب_المغرب",
+    "#moroccan_people",
+    "#وطني_المغرب",
+    "#my_country_morocco",
+    "#فخور_بالمغرب",
+    "#proud_of_morocco",
+    "#بلادي_المغرب",
+    "#my_homeland_morocco"
+  ],
+  "cities": [
+    {
+      "name_en": "Casablanca",
+      "name_ar": "الدار البيضاء",
+      "hashtags": [
+        "#الدار_البيضاء",
+        "#casablanca",
+        "#كازابلانكا",
+        "#casa",
+        "#مدينة_الدار_البيضاء",
+        "#casablanca_city",
+        "#كازا",
+        "#الدار",
+        "#كورنيش_الدار_البيضاء",
+        "#casa_corniche",
+        "#مسجد_الحسن_الثاني",
+        "#hassan_ii_mosque"
+      ]
+    },
+    {
+      "name_en": "Rabat",
+      "name_ar": "الرباط",
+      "hashtags": [
+        "#الرباط",
+        "#rabat",
+        "#مدينة_الرباط",
+        "#rabat_city",
+        "#عاصمة_المغرب",
+        "#morocco_capital",
+        "#صومعة_حسان",
+        "#hassan_tower",
+        "#قصبة_الوداية",
+        "#kasbah_oudayas"
+      ]
+    },
+    {
+      "name_en": "Marrakech",
+      "name_ar": "مراكش",
+      "hashtags": [
+        "#مراكش",
+        "#marrakech",
+        "#marrakesh",
+        "#مدينة_مراكش",
+        "#marrakech_city",
+        "#المدينة_الحمراء",
+        "#red_city",
+        "#جامع_الفنا",
+        "#jemaa_el_fna",
+        "#ساحة_جامع_الفنا",
+        "#المدينة_القديمة",
+        "#medina",
+        "#مراكش_المنارة",
+        "#marrakech_menara"
+      ]
+    },
+    {
+      "name_en": "Fez",
+      "name_ar": "فاس",
+      "hashtags": [
+        "#فاس",
+        "#fez",
+        "#fes",
+        "#مدينة_فاس",
+        "#fez_city",
+        "#فاس_البالي",
+        "#fes_el_bali",
+        "#جامعة_القرويين",
+        "#al_qarawiyyin",
+        "#مدابغ_فاس",
+        "#fez_tanneries"
+      ]
+    },
+    {
+      "name_en": "Tangier",
+      "name_ar": "طنجة",
+      "hashtags": [
+        "#طنجة",
+        "#tangier",
+        "#tanger",
+        "#مدينة_طنجة",
+        "#tangier_city",
+        "#مضيق_جبل_طارق",
+        "#strait_gibraltar",
+        "#كورنيش_طنجة",
+        "#tangier_corniche"
+      ]
+    },
+    {
+      "name_en": "Agadir",
+      "name_ar": "أكادير",
+      "hashtags": [
+        "#أكادير",
+        "#agadir",
+        "#مدينة_أكادير",
+        "#agadir_city",
+        "#شاطئ_أكادير",
+        "#agadir_beach"
+      ]
+    },
+    {
+      "name_en": "Essaouira",
+      "name_ar": "الصويرة",
+      "hashtags": [
+        "#الصويرة",
+        "#essaouira",
+        "#مدينة_الصويرة",
+        "#essaouira_city",
+        "#المدينة_الزرقاء",
+        "#blue_city"
+      ]
+    },
+    {
+      "name_en": "Chefchaouen",
+      "name_ar": "شفشاون",
+      "hashtags": [
+        "#شفشاون",
+        "#chefchaouen",
+        "#chaouen",
+        "#المدينة_الزرقاء",
+        "#blue_pearl",
+        "#اللؤلؤة_الزرقاء"
+      ]
+    }
+  ],
+  "government_leadership": [
+    "#الحكومة_المغربية",
+    "#morocco_government",
+    "#المملكة_المغربية",
+    "#kingdom_of_morocco",
+    "#الملك_محمد_السادس",
+    "#king_mohammed_vi",
+    "#جلالة_الملك",
+    "#his_majesty",
+    "#ولي_العهد",
+    "#crown_prince",
+    "#الأسرة_الملكية",
+    "#royal_family",
+    "#العلويون",
+    "#alaouites"
+  ],
+  "national_days": [
+    "#عيد_الاستقلال_المغربي",
+    "#morocco_independence_day",
+    "#عيد_العرش",
+    "#throne_day",
+    "#المسيرة_الخضراء",
+    "#green_march",
+    "#٦_نوفمبر",
+    "#november_6",
+    "#الأعياد_الوطنية",
+    "#national_holidays",
+    "#احتفالات_المغرب",
+    "#morocco_celebrations"
+  ],
+  "economy_business": [
+    "#اقتصاد_المغرب",
+    "#morocco_economy",
+    "#أعمال_المغرب",
+    "#morocco_business",
+    "#استثمار_في_المغرب",
+    "#invest_in_morocco",
+    "#بورصة_الدار_البيضاء",
+    "#casablanca_stock_exchange",
+    "#تجارة_مغربية",
+    "#morocco_trade",
+    "#شركات_مغربية",
+    "#morocco_companies",
+    "#ريادة_الأعمال_المغرب",
+    "#entrepreneurship_morocco",
+    "#الصناعة_المغربية",
+    "#moroccan_industry"
+  ],
+  "culture_heritage": [
+    "#ثقافة_المغرب",
+    "#morocco_culture",
+    "#تراث_مغربي",
+    "#moroccan_heritage",
+    "#التراث_المغربي",
+    "#morocco_heritage",
+    "#تقاليد_مغربية",
+    "#moroccan_traditions",
+    "#عادات_مغربية",
+    "#moroccan_customs",
+    "#الفن_المغربي",
+    "#moroccan_art",
+    "#فنانون_مغاربة",
+    "#moroccan_artists",
+    "#الموسيقى_المغربية",
+    "#moroccan_music",
+    "#الشعبي_المغربي",
+    "#moroccan_chaabi",
+    "#الأندلسي",
+    "#andalusian",
+    "#كناوة",
+    "#gnawa"
+  ],
+  "tourism_attractions": [
+    "#سياحة_المغرب",
+    "#morocco_tourism",
+    "#زيارة_المغرب",
+    "#visit_morocco",
+    "#السياحة_في_المغرب",
+    "#tourism_in_morocco",
+    "#معالم_المغرب",
+    "#morocco_landmarks",
+    "#أماكن_سياحية_المغرب",
+    "#morocco_attractions",
+    "#الصحراء_المغربية",
+    "#moroccan_desert",
+    "#صحراء_مرزوكة",
+    "#merzouga_desert",
+    "#جبال_الأطلس",
+    "#atlas_mountains",
+    "#شلالات_أوزود",
+    "#ouzoud_waterfalls",
+    "#مدن_إمبراطورية",
+    "#imperial_cities",
+    "#القصور_الملكية",
+    "#royal_palaces"
+  ],
+  "shopping": [
+    "#تسوق_في_المغرب",
+    "#shopping_in_morocco",
+    "#أسواق_المغرب",
+    "#morocco_souks",
+    "#سوق",
+    "#souk",
+    "#أسواق_مراكش",
+    "#marrakech_souks",
+    "#مراكش_مول",
+    "#morocco_mall",
+    "#أنفا_بليس",
+    "#anfa_place",
+    "#الماحج_مول",
+    "#almazar_mall"
+  ],
+  "food_dining": [
+    "#مطاعم_المغرب",
+    "#morocco_restaurants",
+    "#مطاعم_مغربية",
+    "#moroccan_restaurants",
+    "#طعام_مغربي",
+    "#moroccan_food",
+    "#المطبخ_المغربي",
+    "#moroccan_cuisine",
+    "#أكل_مغربي",
+    "#مأكولات_مغربية",
+    "#الطاجين",
+    "#tagine",
+    "#طاجين_مغربي",
+    "#moroccan_tagine",
+    "#الكسكس",
+    "#couscous",
+    "#كسكس_مغربي",
+    "#moroccan_couscous",
+    "#الحريرة",
+    "#harira",
+    "#البسطيلة",
+    "#pastilla",
+    "#الطنجية",
+    "#tangia",
+    "#المشوي",
+    "#mechoui",
+    "#البريوات",
+    "#briouats",
+    "#الحلويات_المغربية",
+    "#moroccan_sweets",
+    "#الشباكية",
+    "#chebakia",
+    "#الغريبة",
+    "#ghriba",
+    "#الشاي_المغربي",
+    "#moroccan_tea",
+    "#أتاي",
+    "#atay",
+    "#القهوة_المغربية",
+    "#moroccan_coffee"
+  ],
+  "traditional_crafts": [
+    "#الصناعة_التقليدية",
+    "#traditional_crafts",
+    "#حرف_تقليدية",
+    "#الزليج",
+    "#zellige",
+    "#الفخار",
+    "#pottery",
+    "#السجاد_المغربي",
+    "#moroccan_rugs",
+    "#الجلد_المغربي",
+    "#moroccan_leather",
+    "#الفضة",
+    "#silver",
+    "#النحاس",
+    "#copper",
+    "#الخشب_المنقوش",
+    "#carved_wood"
+  ],
+  "fashion": [
+    "#موضة_المغرب",
+    "#morocco_fashion",
+    "#أزياء_مغربية",
+    "#moroccan_fashion",
+    "#القفطان_المغربي",
+    "#moroccan_caftan",
+    "#القفطان",
+    "#caftan",
+    "#التكشيطة",
+    "#takchita",
+    "#الجلابة",
+    "#djellaba",
+    "#مصممين_مغاربة",
+    "#moroccan_designers",
+    "#الفاشن_المغربي",
+    "#moroccan_fashion_style"
+  ],
+  "lifestyle": [
+    "#حياة_في_المغرب",
+    "#life_in_morocco",
+    "#نمط_حياة_مغربي",
+    "#moroccan_lifestyle",
+    "#عائلة_مغربية",
+    "#moroccan_family",
+    "#مجتمع_مغربي",
+    "#moroccan_community",
+    "#يوميات_مغربية",
+    "#moroccan_daily"
+  ],
+  "education": [
+    "#تعليم_المغرب",
+    "#morocco_education",
+    "#جامعات_المغرب",
+    "#morocco_universities",
+    "#جامعة_محمد_الخامس",
+    "#mohammed_v_university",
+    "#مدارس_المغرب",
+    "#morocco_schools",
+    "#طلاب_المغرب",
+    "#morocco_students"
+  ],
+  "sports": [
+    "#رياضة_المغرب",
+    "#morocco_sports",
+    "#الرياضة_المغربية",
+    "#moroccan_sports",
+    "#رياضيون_مغاربة",
+    "#moroccan_athletes",
+    "#كرة_القدم_المغربية",
+    "#morocco_football",
+    "#البطولة_المغربية",
+    "#botola",
+    "#الرجاء_البيضاوي",
+    "#raja_casablanca",
+    "#الرجاء",
+    "#raja",
+    "#الوداد_البيضاوي",
+    "#wydad_casablanca",
+    "#الوداد",
+    "#wydad",
+    "#منتخب_المغرب",
+    "#morocco_national_team",
+    "#أسود_الأطلس",
+    "#atlas_lions",
+    "#مونديال_المغرب",
+    "#morocco_world_cup"
+  ],
+  "events_festivals": [
+    "#فعاليات_المغرب",
+    "#morocco_events",
+    "#مهرجانات_المغرب",
+    "#morocco_festivals",
+    "#مهرجان_موازين",
+    "#mawazine_festival",
+    "#مهرجان_الفيلم_الدولي",
+    "#marrakech_film_festival",
+    "#مهرجان_كناوة",
+    "#gnawa_festival"
+  ],
+  "nature": [
+    "#طبيعة_المغرب",
+    "#morocco_nature",
+    "#جبال_المغرب",
+    "#morocco_mountains",
+    "#شواطئ_المغرب",
+    "#morocco_beaches",
+    "#الصحراء",
+    "#desert",
+    "#واحات_المغرب",
+    "#morocco_oases",
+    "#غابات_المغرب",
+    "#morocco_forests",
+    "#غروب_المغرب",
+    "#morocco_sunset"
+  ],
+  "architecture": [
+    "#العمارة_المغربية",
+    "#moroccan_architecture",
+    "#الرياض",
+    "#riad",
+    "#دار_مغربية",
+    "#moroccan_house",
+    "#الأبواب_المغربية",
+    "#moroccan_doors",
+    "#الزخارف",
+    "#decorations"
+  ],
+  "media": [
+    "#إعلام_مغربي",
+    "#morocco_media",
+    "#قنوات_مغربية",
+    "#moroccan_channels",
+    "#2M",
+    "#الأولى",
+    "#al_aoula",
+    "#صحف_مغربية",
+    "#moroccan_newspapers"
+  ],
+  "transportation": [
+    "#مواصلات_المغرب",
+    "#morocco_transport",
+    "#القطار_السريع",
+    "#high_speed_train",
+    "#البراق",
+    "#al_boraq",
+    "#مطار_محمد_الخامس",
+    "#mohammed_v_airport",
+    "#الخطوط_الملكية_المغربية",
+    "#royal_air_maroc"
+  ],
+  "history": [
+    "#تاريخ_المغرب",
+    "#morocco_history",
+    "#المغرب_التاريخي",
+    "#historic_morocco",
+    "#آثار_المغرب",
+    "#morocco_archeology",
+    "#حضارات_المغرب",
+    "#morocco_civilizations"
+  ],
+  "weather": [
+    "#طقس_المغرب",
+    "#morocco_weather",
+    "#الطقس_في_المغرب",
+    "#weather_in_morocco",
+    "#صيف_المغرب",
+    "#morocco_summer",
+    "#شتاء_المغرب",
+    "#morocco_winter"
+  ],
+  "beauty": [
+    "#جمال_المغرب",
+    "#morocco_beauty",
+    "#صالونات_المغرب",
+    "#morocco_salons",
+    "#الحمام_المغربي",
+    "#moroccan_hammam",
+    "#حمام_تقليدي",
+    "#traditional_hammam"
+  ],
+  "weddings": [
+    "#أعراس_مغربية",
+    "#moroccan_weddings",
+    "#العرس_المغربي",
+    "#moroccan_wedding",
+    "#الزفاف_المغربي",
+    "#النكافة",
+    "#negafa",
+    "#التقاليد_العرسية",
+    "#wedding_traditions"
+  ],
+  "real_estate": [
+    "#عقارات_المغرب",
+    "#morocco_real_estate",
+    "#بيوت_المغرب",
+    "#morocco_homes",
+    "#شقق_للإيجار_المغرب",
+    "#apartments_for_rent_morocco"
+  ],
+  "jobs": [
+    "#وظائف_المغرب",
+    "#morocco_jobs",
+    "#وظيفة_في_المغرب",
+    "#job_in_morocco",
+    "#توظيف_المغرب",
+    "#morocco_recruitment",
+    "#فرص_عمل_المغرب",
+    "#job_opportunities_morocco"
+  ],
+  "hospitality": [
+    "#كرم_مغربي",
+    "#moroccan_hospitality",
+    "#ضيافة_مغربية",
+    "#مرحبا",
+    "#welcome_morocco"
+  ]
+}
