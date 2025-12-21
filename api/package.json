@@ -1,0 +1,7 @@
+{
+  "name": "arabic-hashtag-generator",
+  "type": "module",
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  }
+}
