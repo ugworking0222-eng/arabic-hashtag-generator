@@ -34,12 +34,12 @@
            hover:shadow-2xl;
   }
   
-  /* Country Card */
   .country-card {
-    @apply glass-card p-6 rounded-2xl cursor-pointer
-           transform hover:scale-105 transition-all duration-300
-           hover:shadow-2xl border-2 hover:border-blue-400;
-  }
+  @apply glass-card p-6 rounded-2xl cursor-pointer
+         transform hover:scale-105 transition-all duration-300
+         hover:shadow-2xl border-2 hover:border-blue-400
+         min-h-[240px] flex flex-col items-center justify-start;
+}
   
   /* Hashtag Tag */
   .hashtag-tag {

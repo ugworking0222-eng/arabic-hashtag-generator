@@ -132,13 +132,13 @@ const CountrySelector = () => {
               viewport={{ once: true }}
               transition={{ delay: index * 0.05 }}
               onClick={() => handleCountryClick(country.code)}
-              className="country-card group relative overflow-visible"
+              className="country-card group relative overflow-visible min-h-[260px] flex flex-col"
             >
               {/* Gradient Background */}
               <div className={`absolute inset-0 bg-gradient-to-br ${getCountryGradient(country.code)} opacity-0 group-hover:opacity-10 transition-opacity duration-300`}></div>
 
               {/* Content */}
-              <div className="relative z-10">
+              <div className="relative z-10 flex flex-col items-center text-center w-full">
                 {/* Flag */}
                 <div className="text-6xl mb-4 transform group-hover:scale-110 transition-transform duration-300">
                   {country.flag}
