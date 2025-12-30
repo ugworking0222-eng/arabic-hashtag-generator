@@ -132,7 +132,7 @@ const CountrySelector = () => {
               viewport={{ once: true }}
               transition={{ delay: index * 0.05 }}
               onClick={() => handleCountryClick(country.code)}
-              className="country-card group relative overflow-hidden"
+              className="country-card group relative overflow-visible"
             >
               {/* Gradient Background */}
               <div className={`absolute inset-0 bg-gradient-to-br ${getCountryGradient(country.code)} opacity-0 group-hover:opacity-10 transition-opacity duration-300`}></div>
